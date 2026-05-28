@@ -1,2 +1,3 @@
-# 2026-app
-mernapp
+# React with Next.js
+
+## JS DOM(document object Model)
